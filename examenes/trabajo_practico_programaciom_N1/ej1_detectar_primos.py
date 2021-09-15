@@ -17,5 +17,3 @@ if primo == True:
     print("El número es primo")
 elif primo == False:
     print("El número es compuesto")
-
-
